@@ -1,0 +1,6 @@
+nama_1 = str(input("Nama 1 = "))
+umur_1 = int(input("Umur 1 = "))
+nama_2 = str(input("Nama 2 = "))
+umur_2 = int(input("Umur 2 = "))
+selisih = abs(umur_1-umur_2)
+print("Selisih umur",nama_1,"dan",nama_2,"adalah",selisih,"tahun")
