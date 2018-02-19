@@ -60,3 +60,14 @@ Operator on python (Operator di Python)
 - Pernyataan if bersarang (nested if) : merupakan pernyataan yang memungkinkan adanya if di dalam suatu kondisi if, apabila kondisi pertama terpenuhi maka akan melakukan pengecekan kondisi if berikutnya | is a statement that allows if in an if condition, if the first condition is met then it will check the condition if next
 - Perintah Pass (pass command) : operasi null (kosong) dimana tidak ada perintah yang akan dijalankan | null operation (empty) where no command will be executed
 ```
+
+- Bab 3 Looping
+
+```javascript
+- Perulangan (Looping) : suatu perintah algoritma untuk melakukan suatu perintah secara berulang-ulang dengan ketentuan yang ditetapkan | an algorithmic command to perform a command repeatedly with the stipulated conditions
+- Statement while-do : statement perulangan yang dilakukan selama kondisi perulangan masih dipenuhi (bersifat true) dan akan berhenti bila kondisi tidak sesuai dengan yang ditetapkan (false) | the loop statement which is performed during the recurrence condition is still true and will stop when the condition does not match the specified (false)
+- Statement for : statement perulangan jenis traversal pada algoritma | statement loop type traversal on the algorithm
+- Break : pernyataan yang akan membuat program berhenti / keluar dari blok pengulangan | statement that will make the program stop / exit the repetition block
+- Continue : tidak mengakhiri pengulangan seluruhnya | did not end the repetition entirely
+- Pass : mengakibatkan program tidak melakukan tindakan apapun | resulting in the program not taking any action
+```
