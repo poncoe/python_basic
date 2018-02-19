@@ -15,3 +15,15 @@
 - Bab 8 Sorting (Undone)
 - Bab 9 Recursive Function (Undone)
 - (FINAL) Bab 10 MATPLOTLIB (Undone) 
+
+# glossary
+- Bab 1 Input & Output
+
+```javascript
+
+    - Variable : digunakan untuk meletakan data yang nilainya dapat berubah setiap saat | used to map data whose value may change at any time
+    - Tipe Data (data type) : jenis dari suatu variable yang digunakan untuk membuat algoritma program | the type of a variable used to create the program algorithm
+    - Immutable : tipe data yang tidak bisa dirubah (string & int) | data types that can not be changed (string & int)
+    - Mutable : tipe data yang bisa dirubah (list & dictionary) | data types that can be changed (list & dictionary)
+    
+```
