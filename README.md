@@ -49,3 +49,14 @@ Operator on python (Operator di Python)
  >= : greater is equal to | lebih besar sama dengan
  <= : less equal to | kurang sama dengan
 ```
+
+- Bab 2 If-Else
+
+```javascript
+- Percabangan (branching) : perintah yang dapat dieksekusi atau dijalankan apabila suatu kondisi memenuhi syarat yang telah ditentukan atau bernilai true | commands that can be executed or executed if a condition meets a predetermined condition or is true
+- Pernyataan If (if statement) : merupakan pernyataan yang hanya memiliki satu kondisi saja | is a statement that has only one condition
+- Pernyataan If-else (If-Else Statement) : merupakan pernyataan yang memiliki dua seleksi | is a statement that has two selections
+- (if-elif-else) : merupakan pernyataan yang memiliki lebih dari satu kondisi | is a statement that has more than one condition
+- Pernyataan if bersarang (nested if) : merupakan pernyataan yang memungkinkan adanya if di dalam suatu kondisi if, apabila kondisi pertama terpenuhi maka akan melakukan pengecekan kondisi if berikutnya | is a statement that allows if in an if condition, if the first condition is met then it will check the condition if next
+- Perintah Pass (pass command) : operasi null (kosong) dimana tidak ada perintah yang akan dijalankan | null operation (empty) where no command will be executed
+```
