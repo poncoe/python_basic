@@ -25,5 +25,11 @@
     - Tipe Data (data type) : jenis dari suatu variable yang digunakan untuk membuat algoritma program | the type of a variable used to create the program algorithm
     - Immutable : tipe data yang tidak bisa dirubah (string & int) | data types that can not be changed (string & int)
     - Mutable : tipe data yang bisa dirubah (list & dictionary) | data types that can be changed (list & dictionary)
+    - Tipe Data Number : untuk menyimpan nilai-nilai numerik | to store numeric values
+    - Boolean : True & False
+    - Kamus (Dictionary) : untuk mendefinisikan sebuah variable yang akan digunakan dalam pemograman | to define a variable to be used in programming
+    - List : container yang dapat menampung tipe data secara bersamaan | container that can hold data types simultaneously
+    - raw_input() : inputan berupa string (sudah tidak berlaku di python versi 3 keatas) | input in the form of string (already not valid in python version 3 and above)
+    - input() : mengambil data inputan yang selanjutnya akan diolah menjadi artimatika | take the input data which will then be processed into arithmetic
     
 ```
