@@ -17,7 +17,7 @@ Enjoy!
 - Bab 3 [Looping](https://github.com/kataponcoe/python_bab3_looping)
 - Bab 4 [Function](https://github.com/kataponcoe/python_bab4_function)
 - Bab 5 [List,Tuple & Dictionary](https://github.com/kataponcoe/python_bab5_list)
-- Bab 6 [File & Module](https://github.com/poncoe/python_bab6_filemodule)
+- Bab 6 [File & Module](https://github.com/poncoe/python_bab6_filemodule) --> 90% code from github @adnanhf
 - Bab 7 Searching on List (Progress)
 - Bab 8 Sorting (Undone)
 - Bab 9 Recursive Function (Undone)
