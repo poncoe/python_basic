@@ -1,0 +1,3 @@
+Buatlah Program yang bisa mengolah perkalian matrix antara file MatrixA.txt dan file MatrixB.txt lalu simpan hasilnya ke dalam file MatrixC.txt dan membaca ulang file MatrixC.txt
+Hints 	: Ukuran Hasil MatrixC 10 x 10 dengan isi tiap elemen bernilai 16
+NB	: Untuk Perhitungan tidak boleh manual, WAJIB Pake looping. Hasil printnya harus berbentuk matrix 10 x 10
