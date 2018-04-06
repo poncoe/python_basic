@@ -12,13 +12,13 @@
 Enjoy!
 
 # index
-- Bab 1 [Input & Output](https://github.com/kataponcoe/Python_Bab1)
-- Bab 2 [If-Else](https://github.com/kataponcoe/python_bab2_if-else)
-- Bab 3 [Looping](https://github.com/kataponcoe/python_bab3_looping)
-- Bab 4 [Function](https://github.com/kataponcoe/python_bab4_function)
-- Bab 5 [List,Tuple & Dictionary](https://github.com/kataponcoe/python_bab5_list)
-- Bab 6 [File & Module](https://github.com/poncoe/python_bab6_filemodule) --> 90% code from github @adnanhf
-- Bab 7 [Searching on List](https://github.com/poncoe/python_bab7_searchonlist)
+- Bab 1 [Input & Output](https://github.com/poncoe/python_basic/tree/master/bab1_input_output)
+- Bab 2 [If-Else](https://github.com/poncoe/python_basic/tree/master/bab2_if-else)
+- Bab 3 [Looping](https://github.com/poncoe/python_basic/tree/master/bab3_looping)
+- Bab 4 [Function](https://github.com/poncoe/python_basic/tree/master/bab4_function)
+- Bab 5 [List,Tuple & Dictionary](https://github.com/poncoe/python_basic/tree/master/bab5_list)
+- Bab 6 [File & Module](https://github.com/poncoe/python_basic/tree/master/bab6_filemodule) --> 90% code from github @adnanhf
+- Bab 7 [Searching on List](https://github.com/poncoe/python_basic/tree/master/bab7_searchonlist)
 - Bab 8 Sorting (Progress)
 - Bab 9 Recursive Function (Undone)
 - (FINAL) Bab 10 MATPLOTLIB (Undone)
