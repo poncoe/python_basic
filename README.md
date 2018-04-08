@@ -20,8 +20,8 @@ Enjoy!
 - Bab 6 [File & Module](https://github.com/poncoe/python_basic/tree/master/bab6_filemodule) --> 90% code from github @adnanhf
 - Bab 7 [Searching on List](https://github.com/poncoe/python_basic/tree/master/bab7_searchonlist)
 - Bab 8 [Sorting](https://github.com/poncoe/python_basic/tree/master/bab8_sorting)
-- Bab 9 Recursive Function (Progress)
-- (FINAL) Bab 10 MATPLOTLIB (Undone)
+- Bab 9 [Recursive Function](https://github.com/poncoe/python_basic/tree/master/bab9_funcrecursive)
+- (FINAL) Bab 10 MATPLOTLIB (Progress)
 
 for Bab 10 MATPLOTLIB, dont forget to, open cmd (windows) / terminal (linux,ubuntu,mac)
 
