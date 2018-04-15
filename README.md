@@ -21,7 +21,10 @@ Enjoy!
 - Bab 7 [Searching on List](https://github.com/poncoe/python_basic/tree/master/bab7_searchonlist)
 - Bab 8 [Sorting](https://github.com/poncoe/python_basic/tree/master/bab8_sorting)
 - Bab 9 [Recursive Function](https://github.com/poncoe/python_basic/tree/master/bab9_funcrecursive)
-- (FINAL) Bab 10 MATPLOTLIB (Progress)
+- (FINAL) Bab 10 [MATPLOTLIB](https://github.com/poncoe/python_basic/tree/master/bab10_matplotlib)
+
+- [BONUS](https://github.com/poncoe/python_basic/tree/master/bab11_bonus)
+- Example Project (On Progress)
 
 for Bab 10 MATPLOTLIB, dont forget to, open cmd (windows) / terminal (linux,ubuntu,mac)
 
