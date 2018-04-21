@@ -24,7 +24,7 @@ Enjoy!
 - (FINAL) Bab 10 [MATPLOTLIB](https://github.com/poncoe/python_basic/tree/master/bab10_matplotlib)
 
 - [BONUS](https://github.com/poncoe/python_basic/tree/master/bab11_bonus)
-- Example Project (On Progress)
+- Example Project : [HDP's Cafe](https://github.com/mystald/HDPCafe_Python)
 
 for Bab 10 MATPLOTLIB, dont forget to, open cmd (windows) / terminal (linux,ubuntu,mac)
 
