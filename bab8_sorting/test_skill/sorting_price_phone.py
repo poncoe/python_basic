@@ -7,10 +7,10 @@ def bubleSort(list):
 
 if __name__ == '__main__':
     thelist = [
-              ['Redmi 5A', 1235], ['Mi Note 3', 2245],
-              ['Redmi Note 5A', 1250], ['Mi Mix 2', 6750],
-              ['Redmi 5 Pro', 4500], ['Redmi Note 4x', 1755],
-              ['Redmi 5 Plus', 2395]]
+              ['Nokia 3', 1235], ['iPhone 4', 2245],
+              ['Nokia 5', 1250], ['iPhone 5', 6750],
+              ['Nokia 6', 4500], ['iPhone 6', 1755],
+              ['Nokia 8', 2395]]
 
     bubleSort(thelist)
     for i in range(len(thelist)):
