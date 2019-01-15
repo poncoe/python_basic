@@ -45,7 +45,7 @@ def polindrom(kata):
 if __name__=="__main__":
     a = int(input("Masukan Nilai N = "))
     b = fibo(a)
-  
+    c = jum(a)
     d = fak(a)
     l = [4,7,3,8,4,8,5]
     print()
@@ -57,7 +57,7 @@ if __name__=="__main__":
 # Bagian Palindrom
 
     kata = input("Masukan Kata = ")
-    if palindrom(kata) :
+    if polindrom(kata) :
         print("Palindrom")
     else :
         print("Tidak Palindrom")

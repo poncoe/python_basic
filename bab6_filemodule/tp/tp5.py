@@ -1,5 +1,6 @@
 import json
-import modultp5
+from bab6_filemodule.tp import modultp5
+
 coe = json.load(open("DAPno3.txt","r"))
 data = ['NIM','Nama','Nilai UTS']
 print(data[0],"\t"+data[1]+"\t"+data[2])
